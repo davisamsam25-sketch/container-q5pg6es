@@ -11,7 +11,7 @@ DB_PORT = process.env.DB_PORT;
 DB_NAME = process.env.DB_NAME;
 
 app.get("/", (req, res) => {
-  res.send("Hello World!<br />Check /health to verify database connection is also OK")
+  res.send("Techtest!<br />Check /health to verify database connection is also OK")
 })
 
 app.get("/health", (req, res) => {
