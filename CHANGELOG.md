@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Feb 02 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Added name ([@davisamsam25-sketch](https://github.com/davisamsam25-sketch))
+
+#### Authors: 1
+
+- [@davisamsam25-sketch](https://github.com/davisamsam25-sketch)
+
+---
+
 # v0.0.1 (Mon Feb 02 2026)
 
 :tada: This release contains work from a new contributor! :tada:
